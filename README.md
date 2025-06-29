@@ -13,7 +13,7 @@ This project is a lightweight banking system implemented using **pure Java 21** 
 
 ---
 
-## 🔧 Technologies Used
+## 🔧 Technology Used
 
 - ✅ Java 21
 
